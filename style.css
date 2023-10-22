@@ -1,0 +1,13 @@
+* {
+    background-color: lightgray;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+    font-weight: 200;
+    font-family: cursive;
+    background-color: darkgray;
+}
